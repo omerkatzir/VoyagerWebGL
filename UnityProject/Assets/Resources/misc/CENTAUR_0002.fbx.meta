@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 453cafad8ae904e7bb4121480d3c1141
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Boole
+    100002: //RootNode
+    100004: Cylinder
+    100006: Lathe
+    100008: Lathe_1
+    100010: Lathe_2
+    100012: Lathe_3
+    100014: Null
+    100016: Bottom_mainBody
+    100018: Centaur
+    100020: L_rocket
+    100022: R_rocket
+    100024: topHood_L
+    100026: topHood_R
+    100028: up_mainBody
+    100030: Cylinder_2
+    100032: Cylinder_2_2
+    400000: Boole
+    400002: //RootNode
+    400004: Cylinder
+    400006: Lathe
+    400008: Lathe_1
+    400010: Lathe_2
+    400012: Lathe_3
+    400014: Null
+    400016: Bottom_mainBody
+    400018: Centaur
+    400020: L_rocket
+    400022: R_rocket
+    400024: topHood_L
+    400026: topHood_R
+    400028: up_mainBody
+    400030: Cylinder_2
+    400032: Cylinder_2_2
+    2100000: No Name
+    2300000: Boole
+    2300002: Cylinder
+    2300004: Lathe
+    2300006: Lathe_1
+    2300008: Lathe_2
+    2300010: Lathe_3
+    2300012: Null
+    2300014: Bottom_mainBody
+    2300016: Centaur
+    2300018: L_rocket
+    2300020: R_rocket
+    2300022: topHood_L
+    2300024: topHood_R
+    2300026: up_mainBody
+    2300028: Cylinder_2
+    2300030: Cylinder_2_2
+    3300000: Boole
+    3300002: Cylinder
+    3300004: Lathe
+    3300006: Lathe_1
+    3300008: Lathe_2
+    3300010: Lathe_3
+    3300012: Null
+    3300014: Bottom_mainBody
+    3300016: Centaur
+    3300018: L_rocket
+    3300020: R_rocket
+    3300022: topHood_L
+    3300024: topHood_R
+    3300026: up_mainBody
+    3300028: Cylinder_2
+    3300030: Cylinder_2_2
+    4300000: Lathe
+    4300002: Lathe_2
+    4300004: Cylinder
+    4300006: Lathe_3
+    4300008: Lathe_1
+    4300010: Null
+    4300012: Boole
+    4300014: L_rocket
+    4300016: R_rocket
+    4300018: Bottom_mainBody
+    4300020: topHood_L
+    4300022: topHood_R
+    4300024: up_mainBody
+    4300026: Centaur
+    4300028: Cylinder_2
+    4300030: Cylinder_2_2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
